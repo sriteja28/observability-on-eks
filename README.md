@@ -1,1 +1,1 @@
-# observability-on-eks
+> Note: this is like a playground, inspired from https://github.com/aws-observability/terraform-aws-observability-accelerator
